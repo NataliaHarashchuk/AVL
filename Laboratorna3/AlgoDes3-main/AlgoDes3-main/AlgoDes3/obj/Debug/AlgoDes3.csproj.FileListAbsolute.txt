@@ -1,0 +1,11 @@
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\bin\Debug\AlgoDes3.exe.config
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\bin\Debug\AlgoDes3.exe
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\bin\Debug\AlgoDes3.pdb
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.csproj.AssemblyReference.cache
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.Form1.resources
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.Properties.Resources.resources
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.csproj.GenerateResource.cache
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.csproj.CoreCompileInputs.cache
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.exe
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.pdb
+E:\ASD\Laboratorna3\AlgoDes3-main\AlgoDes3-main\AlgoDes3\obj\Debug\AlgoDes3.Form2.resources
